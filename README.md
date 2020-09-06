@@ -9,8 +9,8 @@
 # download application files
 
 # install dependencies
->npm install
-> npm install -g @vue/cli
+>npm install,
+>  npm install -g @vue/cli
 
 # start local server @ localhost:8080
 npm run serve
