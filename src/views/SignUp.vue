@@ -7,7 +7,7 @@
           <h1>Get Started</h1>
           <div>
             <label for="name">Name</label>
-            <input v-model.trim="signupForm.name" type="text" placeholder="Savvy Apps" id="name" />
+            <input v-model.trim="signupForm.name" type="text" placeholder="Your name" id="name" />
           </div>
           <div>
             <label for="title">Title</label>
